@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Dynatable/0.3.1/jquery.dynatable.min.css" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Dynatable/0.3.1/jquery.dynatable.min.js" type="text/javascript"></script>
+    <script src="../model/employee.js" type="text/javascript"></script>
+    <script src="../viewModel/movieListVM.js" type="text/javascript"></script>
+    
+</head>
+<body>
+    <input type="button" id="btnSubmit"
+           value="Get Movie List" data-bind="click: getMovieList" />
+    <div class="container table-style">
+              
+                    <h3> Movies</h3>
+                    <hr />
+                    <div class="table-responsive">
+                    <table id="movieTable" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+								<th>ProducerId</th>
+								<th>ActorId</th>
+								<th>Name</th>
+                                <th>Released Date</th>
+								<th>Plot</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+</body>
+
+<script>
+        ko.applyBindings(new MovieListVM());
+</script>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\bin\Debug\netcoreapp2.0\imdb.deps.json
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\bin\Debug\netcoreapp2.0\imdb.runtimeconfig.json
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\bin\Debug\netcoreapp2.0\imdb.runtimeconfig.dev.json
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\bin\Debug\netcoreapp2.0\imdb.dll
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\bin\Debug\netcoreapp2.0\imdb.pdb
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\obj\Debug\netcoreapp2.0\imdb.csproj.CoreCompileInputs.cache
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\obj\Debug\netcoreapp2.0\imdb.AssemblyInfoInputs.cache
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\obj\Debug\netcoreapp2.0\imdb.AssemblyInfo.cs
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\obj\Debug\netcoreapp2.0\imdb.dll
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\obj\Debug\netcoreapp2.0\imdb.pdb
+C:\Users\Narendra\Desktop\Course\DOT.NET\ProjectCode\DeltaX\IMDB\obj\Debug\netcoreapp2.0\imdb.csprojResolveAssemblyReference.cache
